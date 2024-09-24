@@ -1,0 +1,4 @@
+repository "Clickafe@local"
+  path "/"
+    br "/main"
+    co "/main"
